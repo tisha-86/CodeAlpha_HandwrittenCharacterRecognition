@@ -22,7 +22,7 @@ Recognize handwritten digits (0-9) from grayscale images using a Convolutional N
 6. **Visualization** — sample digit images, training accuracy/loss curves, confusion matrix, and sample predictions.
 
 ## 🏆 Results
-- **Test Accuracy:** XX.XX%
+- **Test Accuracy:** 99.04% (9,904 of 10,000 test images classified correctly)
 - High precision and recall across all 10 digit classes
 - The confusion matrix shows that most misclassifications occur between visually similar digits
 
